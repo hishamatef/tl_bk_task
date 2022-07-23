@@ -14,6 +14,10 @@ php artisan migrate:fresh --seed
 php artisan module:seed
 php artisan test
 ```
+- now you are ready to serve 
+```
+php artisan serve
+```
 - To run re-order COMMAND
 ```
 php artisan students:reOrder
