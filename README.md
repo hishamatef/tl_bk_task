@@ -18,3 +18,4 @@ php artisan test
 ```
 php artisan students:reOrder
 ```
+- api postman collection inside the root directory
